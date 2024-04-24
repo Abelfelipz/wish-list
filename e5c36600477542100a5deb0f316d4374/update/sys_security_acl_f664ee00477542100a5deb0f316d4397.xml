@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_1125697_wish_wish_item</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-21 16:15:54</sys_created_on>
+        <sys_id>f664ee00477542100a5deb0f316d4397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1125697_wish_wish_item</sys_name>
+        <sys_package display_value="Wish" source="x_1125697_wish">e5c36600477542100a5deb0f316d4374</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish">e5c36600477542100a5deb0f316d4374</sys_scope>
+        <sys_update_name>sys_security_acl_f664ee00477542100a5deb0f316d4397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-21 16:15:54</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
